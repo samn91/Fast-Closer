@@ -1,0 +1,30 @@
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Form1.resources
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Properties.Resources.resources
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\Nice Closer.csproj.GenerateResource.Cache
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\bin\Debug\Nice Closer.exe
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\bin\Debug\Nice Closer.pdb
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\Nice Closer.exe
+C:\Users\Yaser\Documents\Visual Studio 2008\Projects\Nice Closer\Nice Closer\obj\Debug\Nice Closer.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\Nice Closer.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\Nice Closer.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\bin\Debug\Nice Closer.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\bin\Debug\Nice Closer.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Form1.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Properties.Resources.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\ResGen.read.1.tlog
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Not Finished\Nice Closer\Nice Closer\obj\Debug\ResGen.write.1.tlog
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\bin\Debug\Nice Closer.exe
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\bin\Debug\Nice Closer.pdb
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Form1.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice_Closer.Properties.Resources.resources
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\ResGen.read.1.tlog
+C:\Users\oolo\Documents\Visual Studio 2010\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\ResGen.write.1.tlog
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.exe
+C:\Users\oolo\Documents\Visual Studio 2012\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.pdb
+D:\Visual Studio 2012\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.exe
+D:\Visual Studio 2012\Projects\C#\Done\Nice Closer\Nice Closer\obj\Debug\Nice Closer.pdb
